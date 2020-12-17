@@ -1,0 +1,26 @@
+{
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": false,
+  "editor.defaultFormatter": "vscode.json-language-features",
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "Visual Studio Dark",
+  "editor.fontFamily": "D2Coding",
+  "editor.fontSize": 14,
+  "window.zoomLevel": 0,
+  "editor.tabSize": 2,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "git.autofetch": true,
+  "editor.autoIndent": "full",
+  /*********************************************************/
+  /********************* prettier 정의 *********************/
+  /*********************************************************/
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+}
